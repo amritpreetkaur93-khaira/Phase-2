@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+
+}
+.studentprofile {
+  margin-left: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
+.indexbody{
+   background-color: white;
+  background
+  
+  
+}
+
+.navbar1 {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+border-radius: 20px;
+  padding:20px;
+  margin: 20px;
+  text-transform: capitalize;
+  width: 150px;
+  height: 100vh;
+  gap: 20px;
+  position: fixed;
+ 
+  
+ 
+}
+nav a{
+  color: white;
+}
+a:hover{
+  color: black;
+}
+a:visited{
+  color: navajowhite;
+}
+.welcome {
+  font-size: 25px;
+  margin-left: 210px;
+  font-weight: bold;
+}
+.welcomemassage{
+  background-image: url(img/welcome.jpg) ;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100vh;
+  height: 50vh;
+  background-position: center;
+
+
+}
+.introduction{
+  font-size: 25px;
+  margin-left: 210px;
+  font-weight: bold;
+  
+}
+.welcomep{
+  font-size: 12px;
+  margin-left: 210px;
+  
+}
+.introductionp{
+  font-size: 12px;
+  margin-left: 210px;
+    
+}
+.quicktip{
+  font-size: 25px;
+  margin-left: 210px;
+  font-weight: bold;
+  
+  
+}
+.quickp{
+  font-size: 12px;
+  margin-left: 210px;
+  
+}
+.fotterp{
+  font-size: 12px;
+  margin-left: 210px;
+}
+
